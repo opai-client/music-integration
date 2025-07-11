@@ -1,6 +1,6 @@
 # music-integration
-Display the music currently being played in the client.
-Supports all music players that support the SMTC protocol.
+Display the music currently being played in the client.  
+Supports all music players that support the SMTC protocol.  
 _Synchronous display of lyrics only supports `NCM (a Chinese music player)` mode_
 
 ## Notes
